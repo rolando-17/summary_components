@@ -1,0 +1,27 @@
+.principal{
+    display: flex;
+    width: 1520px;
+    height: 750px;
+    background-color: grey;
+    justify-content:center;
+    padding: 100px;
+
+}
+
+.recuadro{
+    width: 370px;
+    height: 600px;
+    border-radius: 20px;
+    background-color: white;
+    
+}
+.costo{
+    
+    background-color: hsl(225, 100%, 98%);
+    border-radius: 10px;
+    width: 300px;
+    height: 95px;
+    margin: 35px;
+    margin-top: 25px;
+}
+
